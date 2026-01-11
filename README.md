@@ -1,58 +1,25 @@
-# c-cpp-java-algorithms
+# C Cpp Java Algorithms
 
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+
+## 📝 Description
 A c-cpp-java-algorithms project
 
-## 🚀 Tech Stack
+## 🚀 Technology Stack
+- **Primary**: C++
 
-- C/C++
-
-## ✨ Features
-
-- Modern and scalable architecture
-
-## 📦 Installation
-
-```bash
-# Clone the repository
-git clone https://github.com/amitdubeyup/c-cpp-java-algorithms.git
-cd c-cpp-java-algorithms
-
-```
-
-## ⚙️ Configuration
-
-Create a `.env` file in the root directory:
-
-```bash
-cp .env.example .env
-```
-
-Update the `.env` file with your configuration values.
-
-## 🚀 Usage
-
-```bash
-# Add usage instructions here
-```
-
-## 📁 Project Structure
-
-```
-c-cpp-java-algorithms/
-├── .env.example
-├── README.md
-```
-
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
+## 🛠️ Installation & Setup
+1. Clone the repository:
+   ```bash
+   git clone git@github.com:amitdubeyup/c-cpp-java-algorithms.git
+   ```
+2. Navigate to the directory:
+   ```bash
+   cd c-cpp-java-algorithms
+   ```
 
 ## 📄 License
+This project is licensed under the MIT License.
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 👤 Author
-
-**Amit Dubey**
-
-- GitHub: [@amitdubeyup](https://github.com/amitdubeyup)
+--- 
+*Generated and maintained as part of the digital portfolio synchronization.*
