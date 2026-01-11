@@ -1,6 +1,6 @@
-# program
+# c-cpp-java-algorithms
 
-A program project
+A c-cpp-java-algorithms project
 
 ## 🚀 Tech Stack
 
@@ -14,8 +14,8 @@ A program project
 
 ```bash
 # Clone the repository
-git clone https://github.com/amitdubeyup/program.git
-cd program
+git clone https://github.com/amitdubeyup/c-cpp-java-algorithms.git
+cd c-cpp-java-algorithms
 
 ```
 
@@ -38,7 +38,7 @@ Update the `.env` file with your configuration values.
 ## 📁 Project Structure
 
 ```
-program/
+c-cpp-java-algorithms/
 ├── .env.example
 ├── README.md
 ```
