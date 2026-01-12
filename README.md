@@ -1,7 +1,5 @@
 # C Cpp Java Algorithms
 
-
-
 ## 📝 About The Project
 Comprehensive collection of data structures and algorithms implemented in C, C++, and Java for educational reference.
 
@@ -11,9 +9,6 @@ Comprehensive collection of data structures and algorithms implemented in C, C++
 
 ## 🛠️ Tech Stack
 *   **Java**
-
-## 👨‍💻 Lead Maintainer
-[@amitdubeyup](https://github.com/amitdubeyup)
 
 ## 📦 Installation
 
@@ -29,6 +24,9 @@ Comprehensive collection of data structures and algorithms implemented in C, C++
     ```bash
     npm start    # or python app.py
     ```
+
+## 👨‍💻 Lead Maintainer
+[@amitdubeyup](https://github.com/amitdubeyup)
 
 ## 📄 License
 This project is licensed under the **MIT License**.
